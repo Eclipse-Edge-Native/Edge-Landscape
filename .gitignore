@@ -1,0 +1,8 @@
+.idea
+.project
+.settings/
+.mvn
+.gradle
+build/
+target/
+landscape/src/main/asciidoc/docinfo-header.html

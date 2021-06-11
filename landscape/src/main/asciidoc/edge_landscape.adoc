@@ -1,0 +1,48 @@
+////
+Copyright © 2021 Eclipse Foundation
+
+This program and the accompanying materials are made available under the
+terms of the Eclipse Public License v. 2.0 which is available at
+https://www.eclipse.org/legal/epl-2.0.
+
+SPDX-License-Identifier: EPL-2.0
+////
+
+= EdgeLandscape 1.0.0-SNAPSHOT: Edge Native Landscape
+Eclipse Edge Native Contributors
+Version 1.0.0-SNAPSHOT Snapshot Release, TBD 2021
+
+
+image::wg_edge-pink.jpg[width=110,height=60]
+
+
+
+[cols=",,,",options="header",]
+|===
+|*Revision Number* |*Date* |*Author* |*Description*
+|1.0 | TBD |Wg Contributors |Initial Release
+| | | |
+| | | |
+|===
+
+// Settings:
+//:experimental:
+:reproducible:
+:icons: font
+:listing-caption: Listing
+:sectnums:
+:toc:
+:toclevels: 3
+:docinfo: shared,private
+:autofit-option:
+ifdef::backend-pdf[]
+:sectanchors:
+:doctype: book
+:compat-mode:
+:pdf-page-size: Letter
+:source-highlighter: rouge
+:rouge-style: googlecode
+endif::[]
+image::eclipse_logo.png[width=100,height=40]
+
+include::chapters/Landscape_1_Introduction.adoc[]
