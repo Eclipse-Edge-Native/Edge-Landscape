@@ -1,0 +1,19 @@
+@startmindmap
+
+*[#DeepPink] Edge Computing
+
+** Management
+***[#MediumSpringGreen] Edge Infrastructure Management
+***[#LightGreen] Data Management
+***[#Plum] Edge Applications
+
+Left Side
+
+** Operations
+***[#Orange] Hardware
+***[#Salmon] Virtualization
+***[#Grey] Edge Sites
+***[#DarkSeaGreen] Security
+***[#LightPink] EdgeOps (Tools)
+
+@endmindmap
