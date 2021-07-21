@@ -16,3 +16,11 @@ _The Eclipse Foundation Logo and the Edge Native logo are trademarks of the Ecli
 [[introduction_rationale]]
 === Rationale 
 
+The aim of this landscape is to document gaps in the open source edge computing market. 
+
+=== High Level Landscape
+// suppress inspection "AsciiDocLinkResolve"
+plantuml::assets/plantuml/high-level-landscape.puml[format=png, alt="High Level Landscape"]
+//image:extracted-media/media/image1.png[image,width=660,height=492]
+
+

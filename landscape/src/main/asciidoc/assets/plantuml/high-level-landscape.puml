@@ -1,0 +1,60 @@
+@startmindmap
+
+*[#DeepPink] Edge Computing
+
+** Infrastructure
+*** Management
+****[#LightPink] Tools
+***** Remote access
+****** DevicePlane
+***** Identity 
+****** Certificates
+******* Hierarchy of identitites (IEEE 802.1AR Secure Device Identity)
+****** Root of trust
+****** Network address
+****** Hardware UUID
+****** User name / password
+****** Mapping
+***** Provisioning
+****** Connect to existing devices
+****** Laying infra on raw resources
+****** Use gateways to establish connections
+****** Zero touch
+****** Hot swap
+***** Software lifecycle management
+****** Firmware
+****** OS
+***** Configuration
+****** Network settings
+****** Time
+******* Sync
+****** Configuration management
+******* Templates
+******** Asset Types
+******* Rollbacks
+
+*** Networking
+** Applications
+*** Management
+**** Tools
+***** Configuration
+** Data
+
+
+
+
+** Management
+***[#MediumSpringGreen] Edge Infrastructure Management
+***[#LightGreen] Data Management
+***[#Plum] Edge Applications
+*** Provisioning and configuration
+
+
+** Data
+***[#Orange] Hardware
+***[#Salmon] Virtualization
+***[#Grey] Edge Sites
+***[#DarkSeaGreen] Security
+***[#LightPink] Tools
+
+@endmindmap
