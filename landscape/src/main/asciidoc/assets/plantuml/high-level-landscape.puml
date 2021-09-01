@@ -4,7 +4,7 @@
 
 ** Infrastructure
 *** Management
-****[#LightPink] Tools
+****[#LightPink] Tools 
 ***** Remote access
 ****** DevicePlane
 ***** Identity 
@@ -34,6 +34,15 @@
 ******* Rollbacks
 
 *** Networking
+**** Physical Networks
+***** Field connectivity
+***** Cloud side connectivity
+**** Virtual Networks
+***** Skupper
+**** Quality of Service
+**** Out of band
+ 
+
 ** Applications
 *** Management
 **** Tools
@@ -55,6 +64,6 @@
 ***[#Salmon] Virtualization
 ***[#Grey] Edge Sites
 ***[#DarkSeaGreen] Security
-***[#LightPink] Tools
+***[#LightPink] Tools 
 
 @endmindmap
