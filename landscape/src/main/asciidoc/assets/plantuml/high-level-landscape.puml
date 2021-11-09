@@ -44,9 +44,46 @@
  
 
 ** Applications
-*** Management
-**** Tools
-***** Configuration
+*** Architecture
+**** Service Mesh
+**** Sequencing
+**** Dependencies
+**** Data flows (Application graph)
+*** Lifecycle Management
+**** Configuration
+**** Deployment
+***** Templating
+***** Security
+****** Device attestation
+******* Multi-tenancy
+****** Application attestation
+****** State attestation
+******* Tampering
+******* Location
+******* Health and resource monitoring
+******** CPU
+******** RAM
+******** Storage
+******** Connectivity
+******** AI Accelerator
+******** I/O
+****** Ownership attestation
+
+
+**** Monitoring
+*** Build
+**** Developer tools
+***** Build System
+****** Cross-compilation
+****** Package Management
+***** Sandbox
+**** Pipelines
+***** Upload to registry (CI/CD)
+****** Marketplaces
+
+**** Binary storage
+
+
 ** Data
 
 
