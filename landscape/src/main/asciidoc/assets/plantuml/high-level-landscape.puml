@@ -58,15 +58,36 @@
 ******* Multi-tenancy
 ****** Application attestation
 ****** State attestation
-******* Tampering
 ******* Location
+******* Time
 ******* Health and resource monitoring
 ******** CPU
 ******** RAM
+******** Environmental monitoring
+********* Temperature
+********* Moisture
+********* Vibrations
+********* Tampering
 ******** Storage
+********* Flash health monitoring
+********** Number of writes
 ******** Connectivity
+********* Wireless
+********* Wired
 ******** AI Accelerator
+********* Number of cores
+********* Types of silicon (model numbers)
 ******** I/O
+********* USB controllers
+********* Serial
+********* GPIO (I2C / onboard)
+********** On/off digital
+********** Analog ports
+********* PCIe / M2
+********* MIPI CSI (cameras)
+********* CANBUS (automotive)
+********* MVB (rail) 
+
 ****** Ownership attestation
 
 
@@ -101,6 +122,6 @@
 ***[#Salmon] Virtualization
 ***[#Grey] Edge Sites
 ***[#DarkSeaGreen] Security
-***[#LightPink] Tools 
+***[#LightPink] Tools
 
 @endmindmap
